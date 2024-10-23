@@ -15,7 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--타이틀 부분-->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=random&height=300&section=header&text=최민규%20render&fontSize=90&animation=blinking" />
-</div>
