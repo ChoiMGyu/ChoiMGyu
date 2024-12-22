@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
 </div>
 
 ---
@@ -63,8 +64,19 @@
 
 <br><br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=choistar)](https://solved.ac/choistar/)  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nippert)](https://solved.ac/nippert/)
+<div align="center">
+  <h3>Problem Solving</h3>
+</div>
+<div align="center">
+  <a href="https://solved.ac/choistar">
+    <img src="https://img.shields.io/badge/solved.ac-000000?style=for-the-badge&logo=solvedac&logoColor=white">
+  </a>
+  <a href="https://solved.ac/nippert">
+    <img src="https://img.shields.io/badge/solved.ac-000000?style=for-the-badge&logo=solvedac&logoColor=white">
+  </a>
+</div>
+
+<br><br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiMGyu&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
