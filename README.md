@@ -65,14 +65,11 @@
 <br><br>
 
 <div align="center">
-  <h3>Problem Solving</h3>
-</div>
-<div align="center">
-  <a href="https://solved.ac/choistar">
-    <img src="https://img.shields.io/badge/solved.ac-000000?style=for-the-badge&logo=solvedac&logoColor=white">
+  <a href="https://solved.ac/choistar/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=choistar" />
   </a>
-  <a href="https://solved.ac/nippert">
-    <img src="https://img.shields.io/badge/solved.ac-000000?style=for-the-badge&logo=solvedac&logoColor=white">
+  <a href="https://solved.ac/nippert/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nippert" />
   </a>
 </div>
 
